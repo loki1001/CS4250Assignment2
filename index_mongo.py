@@ -1,7 +1,8 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Lokaranjan Munta
 # FILENAME: index_mongo.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: The program gives a UI to interact with the MongoDB database using the functions built in
+# `db_connection_mongo_solution.py`.
 # FOR: CS 4250- Assignment #2
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
